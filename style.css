@@ -189,6 +189,9 @@ img {
   .editor__code {
     height: 10em;
   }
+  .preview {
+    height: 50em;
+  }
 }
 
 
